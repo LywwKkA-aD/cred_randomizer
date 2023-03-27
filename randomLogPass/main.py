@@ -1,7 +1,6 @@
 import os
 import time
 import random
-import string
 from lib.random_username_generator import RandomUsernameGenerator
 from lib.random_password_generator import RandomPasswordGenerator
 
