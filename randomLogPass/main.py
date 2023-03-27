@@ -2,8 +2,8 @@ import os
 import time
 import random
 import string
-from random_username_generator import RandomUsernameGenerator
-from random_password_generator import RandomPasswordGenerator
+from lib.random_username_generator import RandomUsernameGenerator
+from lib.random_password_generator import RandomPasswordGenerator
 
 class CredentialsGenerator:
     def __init__(self):
