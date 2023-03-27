@@ -6,3 +6,5 @@ Different usefull randomizers.
 
 **Login:** 10 Characters \
 **Password:** 128+ bit password
+
+Used ASCII art generator: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
